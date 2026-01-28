@@ -1,0 +1,26 @@
+2026-01-28T05:01:19.082Z [INFO] ----------------------invoke install_jdk----------------------
+2026-01-28T05:01:19.084Z [INFO] [Tool.invoke]({name: install_jdk, input: {
+  "version": "21",
+  "projectPath": "c:\\Users\\Asus\\Desktop\\devops projects\\DevOps-Projects\\DevOps-Project-01"
+}}).
+2026-01-28T05:01:19.085Z [INFO] [Task.start](): Starting task toolCall
+2026-01-28T05:01:19.085Z [INFO] [Task.start](): Started task toolCall
+2026-01-28T05:01:19.086Z [INFO] [Tool.invoke] validate GitHub Copilot license.
+2026-01-28T05:01:19.086Z [INFO] [Tool.invoke] do pre-invoke.
+2026-01-28T05:01:19.086Z [INFO] [Tool.invoke] do invoke.
+2026-01-28T05:12:57.926Z [INFO] [Tool.invoke]({result: {
+  "result": {
+    "name": "java",
+    "path": "C:\\Users\\Asus\\.jdk\\jdk-21.0.8\\bin",
+    "version": "21.0.8"
+  },
+  "message": "JDK 21 is installed at C:\\Users\\Asus\\.jdk\\jdk-21.0.8\\bin",
+  "telemetry": {
+    "tool": "JDK",
+    "version": "21"
+  }
+}}).
+2026-01-28T05:12:57.928Z [INFO] [Task.complete](): Completing task toolCall
+2026-01-28T05:12:57.930Z [INFO] [Task.complete](): Completed task toolCall
+2026-01-28T05:12:57.931Z [INFO] [Tool.invoke]({message: JDK 21 is installed at C:\Users\Asus\.jdk\jdk-21.0.8\bin}).
+2026-01-28T05:12:57.932Z [INFO] ----------------------invoked install_jdk----------------------

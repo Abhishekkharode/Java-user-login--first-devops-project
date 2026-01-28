@@ -1,0 +1,26 @@
+2026-01-28T04:59:20.340Z [INFO] ----------------------invoke install_maven----------------------
+2026-01-28T04:59:20.341Z [INFO] [Tool.invoke]({name: install_maven, input: {
+  "version": "latest",
+  "projectPath": "c:\\Users\\Asus\\Desktop\\devops projects\\DevOps-Projects\\DevOps-Project-01"
+}}).
+2026-01-28T04:59:20.341Z [INFO] [Task.start](): Starting task toolCall
+2026-01-28T04:59:20.342Z [INFO] [Task.start](): Started task toolCall
+2026-01-28T04:59:20.343Z [INFO] [Tool.invoke] validate GitHub Copilot license.
+2026-01-28T04:59:20.343Z [INFO] [Tool.invoke] do pre-invoke.
+2026-01-28T04:59:20.344Z [INFO] [Tool.invoke] do invoke.
+2026-01-28T04:59:29.247Z [INFO] [Tool.invoke]({result: {
+  "result": {
+    "name": "mvn",
+    "path": "C:\\Users\\Asus\\.maven\\maven-3.9.12\\bin",
+    "version": "3.9.12"
+  },
+  "message": "Maven latest is installed at C:\\Users\\Asus\\.maven\\maven-3.9.12\\bin",
+  "telemetry": {
+    "tool": "Maven",
+    "version": "latest"
+  }
+}}).
+2026-01-28T04:59:29.247Z [INFO] [Task.complete](): Completing task toolCall
+2026-01-28T04:59:29.248Z [INFO] [Task.complete](): Completed task toolCall
+2026-01-28T04:59:29.248Z [INFO] [Tool.invoke]({message: Maven latest is installed at C:\Users\Asus\.maven\maven-3.9.12\bin}).
+2026-01-28T04:59:29.248Z [INFO] ----------------------invoked install_maven----------------------

@@ -1,0 +1,26 @@
+2026-01-28T04:59:44.352Z [INFO] ----------------------invoke list_jdks----------------------
+2026-01-28T04:59:44.353Z [INFO] [Tool.invoke]({name: list_jdks, input: {
+  "projectPath": "c:\\Users\\Asus\\Desktop\\devops projects\\DevOps-Projects\\DevOps-Project-01"
+}}).
+2026-01-28T04:59:44.353Z [INFO] [Task.start](): Starting task toolCall
+2026-01-28T04:59:44.353Z [INFO] [Task.start](): Started task toolCall
+2026-01-28T04:59:44.354Z [INFO] [Tool.invoke] validate GitHub Copilot license.
+2026-01-28T04:59:44.354Z [INFO] [Tool.invoke] do pre-invoke.
+2026-01-28T04:59:44.354Z [INFO] [Tool.invoke] do invoke.
+2026-01-28T04:59:44.425Z [INFO] [Tool.invoke]({result: {
+  "message": "We found following jdks in your system:\n\n1. Java 11.0.28\n   📁 Path: C:\\Users\\Asus\\.jdk\\jdk-11.0.28\\bin\n   🏷️ Source: install\n\n2. Java 24.0.1\n   📁 Path: C:\\Program Files\\Java\\jdk-24\\bin\n   🏷️ Source: others\n\nTotal: 2 JDK installation(s) found"
+}}).
+2026-01-28T04:59:44.426Z [INFO] [Task.complete](): Completing task toolCall
+2026-01-28T04:59:44.426Z [INFO] [Task.complete](): Completed task toolCall
+2026-01-28T04:59:44.427Z [INFO] [Tool.invoke]({message: We found following jdks in your system:
+
+1. Java 11.0.28
+   📁 Path: C:\Users\Asus\.jdk\jdk-11.0.28\bin
+   🏷️ Source: install
+
+2. Java 24.0.1
+   📁 Path: C:\Program Files\Java\jdk-24\bin
+   🏷️ Source: others
+
+Total: 2 JDK installation(s) found}).
+2026-01-28T04:59:44.427Z [INFO] ----------------------invoked list_jdks----------------------
