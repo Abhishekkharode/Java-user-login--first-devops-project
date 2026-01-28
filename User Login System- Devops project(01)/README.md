@@ -524,7 +524,7 @@ This project is maintained by **[Abhishek Kharode](https://github.com/Abhishekkh
 Your feedback and contributions are welcome!
 
 📧 **Connect with me:**
-- **GitHub**: [@NotHarshhaa](https://github.com/Abhishekkharode)
+- **GitHub**: [@Abhishek](https://github.com/Abhishekkharode)
 
 ---
 
@@ -537,7 +537,7 @@ If you found this project helpful, please consider:
 
 ### 📢 Stay Connected
 
-![Follow Me](https://imgur.com/2j7GSPs.png)
+![Follow Me]
 
 > [!Important]
 > This documentation is continuously evolving. For the latest updates, please check the repository regularly.
